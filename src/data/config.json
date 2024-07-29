@@ -1,0 +1,44 @@
+{
+  "job": "Software Engineer | Data Scientist",
+  "name": "Jamil Ur Rahman",
+  "desc": "Front-End Web Developer with 03+ years in JavaScript and React.js. I build dynamic, responsive web applications and am pursuing an MS in Data Sciences.",
+  "aboutDesc": "A dedicated Software Engineer with expertise in React.js and a strong background in Front-End Development. At Smart Forum, I've successfully delivered high-quality software solutions and contributed to critical projects, demonstrating my problem-solving skills and commitment to continuous learning. I hold a Master’s in Data Sciences from Bahria University and a Bachelor’s in Computer Science from the University of Agriculture, Peshawar. My certifications in Data Science, Power BI, and MySQL further enhance my technical capabilities. I am passionate about leveraging technology to solve real-world problems and eager to bring my dedication and innovation to new challenges.",
+  "email": "jamirahm2@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://github.com/oyejimmy",
+  "projects": [
+    {
+      "project-image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiYyoZuaiIrBKygBUDqYOYy0IurIMFTvxt0A&s",
+      "project-name": "oyejimmy",
+      "project-desc": "React + Tailwind Portfolio"
+    },
+    {
+      "project-image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiYyoZuaiIrBKygBUDqYOYy0IurIMFTvxt0A&s",
+      "project-name": "Opare AI",
+      "project-desc": "React.js + Antd + Redux Toolkit"
+    },
+    {
+      "project-image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiYyoZuaiIrBKygBUDqYOYy0IurIMFTvxt0A&s",
+      "project-name": "CSQ - QAU",
+      "project-desc": "HTML5 + CSS3 + Bootstrap"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://twitter.com/jamirahmofcl"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://instagram.com/imjimmykhan"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/oyejimmy"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/jamilurahman/"
+    }
+  ]
+}
